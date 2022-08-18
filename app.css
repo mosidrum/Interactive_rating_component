@@ -2,6 +2,7 @@ body {
     background-color: hsl(216, 12%, 8%);
     font-size: 16px;
     color: #fff;
+    font-family: cursive;
 }
 
 .container {
@@ -69,6 +70,21 @@ body {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+.card-body h2 {
+    text-align: center;
+    align-content: justify;
+}
+.card-body p {
+    text-align: center;
+    align-content: justify;
+}
 .hide {
     display: none;
+}
+.card-2 {
+    text-align: center;
+}
+.attribution {
+    text-align: center;
+    color: white;
 }
